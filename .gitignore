@@ -1,0 +1,7 @@
+# Puzzle inputs are personal; the AoC FAQ asks not to publish them
+inputs/*
+!inputs/.gitkeep
+.scala-build/
+.bsp/
+.metals/
+.vscode/
